@@ -2,7 +2,7 @@
 
 rm -rf Paid
 
-git clone
+git clone https://github.com/Touseef-TA/Paid
 
 cd Paid
 
